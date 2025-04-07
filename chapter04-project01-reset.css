@@ -1,0 +1,8 @@
+/* RESET STYLESHEET */
+html, body, header, footer, main, nav, article, section, figure,
+figcaption, h1, h2, h3, ul, li, div, p, img {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+}

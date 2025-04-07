@@ -1,0 +1,64 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Share Your Travels</title>
+  <link rel="stylesheet" href="chapter04-project01-reset.css">
+  <link rel="stylesheet" href="chapter04-project01.css">
+</head>
+<body>
+  <header>
+    <h1>Share Your Travels</h1>
+    <p>Share your favorite travel experiences with like-minded adventurers!</p>
+  </header>
+
+  <nav>
+    <a href="#">Home</a> |
+    <a href="#">Browse</a> |
+    <a href="#">Search</a>
+  </nav>
+
+  <main>
+    <article>
+      <h2>Central Park</h2>
+      <figure>
+        <a href="images/large-central-park.jpg">
+          <img src="images/central-park.jpg" alt="Central Park">
+        </a>
+        <figcaption>Central Park in New York City</figcaption>
+      </figure>
+      <p>This photo of Central Park in New York City was taken on October 22, 2021, while the autumn colors were just beginning to show.</p>
+    </article>
+
+    <section>
+      <h3>Related Photos</h3>
+      <a href="images/related-large1.jpg">
+        <img src="images/related-square1.jpg" alt="Related Photo 1">
+      </a>
+      <a href="images/related-large2.jpg">
+        <img src="images/related-square2.jpg" alt="Related Photo 2">
+      </a>
+      <a href="images/related-large3.jpg">
+        <img src="images/related-square3.jpg" alt="Related Photo 3">
+      </a>
+    </section>
+
+    <section>
+      <h3>Reviews</h3>
+      <ul>
+        <li>My favorite park</li>
+        <li>A must-visit spot!</li>
+        <li>I love Central Park.</li>
+      </ul>
+      <p style="font-size: 0.8em;">This is one of my favorites!</p>
+    </section>
+  </main>
+
+  <footer>
+    <a href="#">Home</a> |
+    <a href="#">Contact</a>
+    <p>&copy; 2025 Share Your Travels</p>
+  </footer>
+</body>
+</html>
